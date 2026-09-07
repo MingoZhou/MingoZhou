@@ -1,5 +1,5 @@
-<!-- 顶部动态横幅（胶囊渐变） -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=220&section=header&text=MingoZhou&fontSize=42&fontAlignY=34&animation=fadeIn&fontColor=ffffff&desc=%E5%B7%A5%E4%B8%9AAI%20%C2%B7%20%E6%99%BA%E8%83%BD%E5%88%B6%E9%80%A0%20%C2%B7%20LLM%20Agent&descAlignY=58&descSize=18)
+<!-- 顶部渐变横幅（静态 SVG，提交到仓库，国内可直接访问） -->
+![Header](assets/header.svg)
 
 <!-- 打字机效果：自动循环滚动多条标语 -->
 <p align="center">
@@ -33,9 +33,14 @@
 
 ## 📊 GitHub 数据
 
+<!-- ⚠️ vercel.app 域名在国内网络无法直连，以下 4 个动态卡片已暂时注释。
+     恢复方案：把 github-readme-stats / activity-graph / trophy 自部署到可访问平台后，
+     取消注释并把 URL 中的域名替换为你自己的部署地址。 -->
 <p align="center">
+  <!--
   <img src="https://github-readme-stats.vercel.app/api?username=MingoZhou&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MingoZhou&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="49%" />
+  -->
 </p>
 
 <p align="center">
@@ -43,11 +48,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MingoZhou&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Contribution Activity Graph" />
+  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=MingoZhou&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Contribution Activity Graph" /> -->
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MingoZhou&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=MingoZhou&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" /> -->
 </p>
 
 ## 🚀 置顶项目
@@ -89,13 +94,9 @@
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0002-4472-3326)
 [![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%E5%91%A8%E5%8D%9A%E5%A3%AB%E6%99%BA%E9%80%A0%E7%AC%94%E8%AE%B0-0084FF?style=for-the-badge&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/xin-ba-11-61)
 
-<!-- 把 B 站 / 邮箱等真实链接替换到下面一行：
-[![B站](https://img.shields.io/badge/B%E7%AB%99-%E4%BD%A0%E7%9A%84%E8%B4%A6%E5%8F%B7-FB7299?style=for-the-badge&logo=bilibili&logoColor=white)](你的B站主页链接)
--->
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MingoZhou&style=flat-square&color=6E40C9" alt="Profile Views" />
 </p>
 
-<!-- 底部波浪收尾 -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=140&section=footer)
+<!-- 底部波浪收尾（静态 SVG） -->
+![Footer](assets/footer.svg)

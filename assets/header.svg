@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220" width="100%" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#06B6D4"/>
+    </linearGradient>
+  </defs>
+  <path d="M0,0 L900,0 L900,150 C810,128 720,192 540,150 C360,108 180,192 0,150 Z" fill="url(#bg)"/>
+  <text x="450" y="92" font-family="Segoe UI, PingFang SC, Arial, sans-serif" font-size="44" font-weight="700" fill="#ffffff" text-anchor="middle">MingoZhou</text>
+  <text x="450" y="126" font-family="Segoe UI, PingFang SC, Arial, sans-serif" font-size="17" fill="rgba(255,255,255,0.92)" text-anchor="middle">工业AI · 智能制造 · LLM Agent</text>
+</svg>
