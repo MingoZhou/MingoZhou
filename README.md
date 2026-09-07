@@ -90,7 +90,7 @@
 
 ## 📫 联系我
 
-[![公众号](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E5%91%A8%E5%8D%9A%E5%A3%AB%E6%99%BA%E9%80%A0%E7%AC%94%E8%AE%B0-07C160?style=for-the-badge&logo=wechat&logoColor=white)](https://github.com/MingoZhou)
+[![公众号](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E5%91%A8%E5%8D%9A%E5%A3%AB%E6%99%BA%E9%80%A0%E7%AC%94%E8%AE%B0-07C160?style=for-the-badge&logo=wechat&logoColor=white)](assets/gzh_qrcode.png)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0002-4472-3326)
 [![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%E5%91%A8%E5%8D%9A%E5%A3%AB%E6%99%BA%E9%80%A0%E7%AC%94%E8%AE%B0-0084FF?style=for-the-badge&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/xin-ba-11-61)
 
