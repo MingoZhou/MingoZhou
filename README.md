@@ -65,6 +65,24 @@
 
 > DeepSeek Harness 插件：把 append-only 会话日志变成可交互的回放 —— 可播放的时间线 + 逐步 token 账单、安全审计视图、fork 血缘树、双会话对比，全部内嵌在 Harness 的 Web UI 里。
 
+### ✂️ dsh-sacred —— 剪除异常分支，守护神圣时间线
+
+[![GitHub stars](https://img.shields.io/github/stars/MingoZhou/dsh-sacred?style=flat-square&label=Stars&color=FFD700)](https://github.com/MingoZhou/dsh-sacred)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/MingoZhou/dsh-sacred)
+[![MIT](https://img.shields.io/badge/license-MIT-brightgreen?style=flat-square)](https://github.com/MingoZhou/dsh-sacred)
+[![Live Demo](https://img.shields.io/badge/Demo-Live-4D6BFE?style=flat-square)](https://mingozhou.github.io/dsh-sacred/)
+
+> DeepSeek Harness 上下文修剪插件：按价值裁剪过时、重复或失败的工具输出，而不是满窗就从头砍 —— 内置 WebGL「神圣时间线」可视化面板与上下文负载监控，钉住的永不剪，剪掉的随时一键召回。
+
+### 🌿 glass-ark —— 玻璃方舟 · 生态缸上帝模拟器
+
+[![GitHub stars](https://img.shields.io/github/stars/MingoZhou/glass-ark?style=flat-square&label=Stars&color=FFD700)](https://github.com/MingoZhou/glass-ark)
+[![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)](https://github.com/MingoZhou/glass-ark)
+[![MIT](https://img.shields.io/badge/license-MIT-brightgreen?style=flat-square)](https://github.com/MingoZhou/glass-ark)
+[![Live Demo](https://img.shields.io/badge/Demo-Play%20Online-6AA84F?style=flat-square)](https://mingozhou.github.io/glass-ark/)
+
+> 浏览器里的生态缸上帝模拟器：用 Three.js 打造，零构建依赖、断网可玩，支持混合生态缸与海洋珊瑚礁，还提供无边框桌面摸鱼模式 —— 光合作用、食物链、出生与死亡，都在一只玻璃缸里自己发生。
+
 ### 💍 IEEE 婚礼邀请函 LaTeX 模板
 
 [![TeX](https://img.shields.io/badge/TeX-008080?style=flat-square&logo=latex&logoColor=white)](https://github.com/MingoZhou/Paper-Template-for-the-IEEE-Transaction-on-wedding-Information_Sciences)
